@@ -6,4 +6,6 @@ creating a new branch is quick and simple。
 change！！！
 change two
 insert add clone one statements.
+hiahia
+learn git continue....
 
