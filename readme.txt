@@ -3,11 +3,5 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 creating a new branch is quick and simple。
-change！！！
-change two
-insert add clone one statements.
-hiahia
-learn git continue....
-add onowwwe
-statement from document learngit
+update from documents learngit
 
